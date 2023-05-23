@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1683390875 source:c:\users\user\desktop\Учёба\Курс 2\Компьютерная Графика\lab№6\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1683391519 source:c:\users\user\desktop\Учёба\Курс 2\Компьютерная Графика\lab№6\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+
+1683392429 c:\users\user\desktop\Учёба\Курс 2\Компьютерная Графика\lab№6\camera.h
+
+1683450802 source:c:\users\user\desktop\учёба\курс 2\компьютерная графика\lab№6\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1683392429 c:\users\user\desktop\учёба\курс 2\компьютерная графика\lab№6\camera.h
+
+1683391230 source:c:\users\user\desktop\учёба\курс 2\компьютерная графика\lab№6\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684174830 source:d:\onedrive - Дневник.ру\downloads\homework-main (1)\homework-main\lab№6\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
